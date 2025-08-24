@@ -10,6 +10,8 @@
 
 - I am working on an instance Image segmentation project for my MSc Data Science coursework. I am using Masked R-CNN from PyTorch using the ResNet-50 architecture the   same architecture that acts as the backbone for Detectron-2 of Facebook and Meta.
   Work is soon to be posted.
+  - The image segmentation project is completed✨ and posted on the Image Segmentation repository.
+
 
 - Learning 3d image segmentation using Python 🐍💻 Sci tools
   from a ▶️ channel called Mr.P solver: https://www.youtube.com/watch?v=UIgaLDgb2fY
